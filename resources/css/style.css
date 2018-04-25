@@ -19,3 +19,11 @@ header {
   margin-bottom: .66rem;
   margin-left: 1rem;
 }
+.main-banner {
+  height: 25rem;
+  display: flex;
+  background-size: cover;
+}
+.menu {
+  background-color: firebrick;
+}
