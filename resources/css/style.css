@@ -1,0 +1,21 @@
+html {
+  font-size: 18px;
+}
+body {
+  background-color: black;
+}
+
+header {
+
+}
+.logo img {
+  height: 1.5rem;
+}
+.logo span {
+  font-size: 1rem;
+  font-family: Helvetica;
+  color: white;
+  margin-top: .66rem;
+  margin-bottom: .66rem;
+  margin-left: 1rem;
+}
