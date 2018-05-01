@@ -50,11 +50,11 @@ header {
 
 }
 
-.container .announcement h6 {
+.container .announcement p {
   font-size: 1rem;
 }
 
-.container .announcement h1 {
+.container .announcement h2 {
   font-size: 2rem;
   padding-top: 0.25rem;
 }
